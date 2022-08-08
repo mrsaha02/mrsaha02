@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 45%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Tonmoy Saha</h1>
+<h2 align="center">Hi 👋, I'm Tonmoy Saha</h2>
   
 <h3 align="center">I am a software Engineer working with PHP Laravel framework.</h3>
 
