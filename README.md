@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tonmoy Saha</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 <h3 align="center">I am a software Engineer working with PHP Laravel framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsaha02&label=Profile%20views&color=0e75b6&style=flat" alt="mrsaha02" /> </p>
